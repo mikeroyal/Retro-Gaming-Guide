@@ -1,11 +1,11 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/153087511-4ba7dfe1-e125-4413-ac4b-c9c237c08e3f.gif">
   <br />
   Retro Gaming Guide
 </h1>
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153087541-56b875de-98b4-4c2f-8654-5d4c0d3e4172.png">
 <br />
 </p>
 
@@ -34,7 +34,7 @@
      - [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
      - [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
 
-3.[Raspberry Pi](https://github.com/mikeroyal/Retro-Gaming-Guide#Raspberry-Pi)    
+3. [Raspberry Pi](https://github.com/mikeroyal/Retro-Gaming-Guide#Raspberry-Pi)    
       
     - [Models of Raspberry Pi boards](https://github.com/mikeroyal/Retro-Gaming-Guide#models-of-raspberry-pi-boards)
 
@@ -64,7 +64,7 @@
 [RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153087555-e1bde100-6079-4089-a33d-804e29064789.png">
 <br />
 </p>
 
